@@ -1,0 +1,15 @@
+{
+  "name": "dropbox-proxy",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "coffee proxy.coffee"
+  },
+  "dependencies": {
+    "http-proxy": "~0.8.3"
+  },
+  "engines": {
+    "node": "0.8.8",
+    "npm": "1.1.49"
+  }
+}
